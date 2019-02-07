@@ -37,7 +37,8 @@
  ____________________________
 |                            |
 | Git Deployment Script v0.1 |
-|  github.com/itsraviprakash |
+| github.com/itsraviprakash  |
+| 2019                       |
 |____________________________|
 
 <?php echo $output; ?>
